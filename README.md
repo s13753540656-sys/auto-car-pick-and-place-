@@ -17,4 +17,4 @@
 
 ## 演示视频
 
-- Bilibili：（链接待补充）
+- 演示视频：`auto-car-demo-720p.mp4`（720p 压缩版，原片 40MB，GitHub 网页上传限 25MB）
