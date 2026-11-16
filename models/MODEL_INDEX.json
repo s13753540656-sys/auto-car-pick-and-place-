@@ -1,0 +1,244 @@
+{
+  "release": "models-2026-11-16",
+  "package": "auto-car-solidworks-models-2026-11-16.zip",
+  "package_bytes": 40926565,
+  "package_sha256": "a9f0c1e169e2eaa7516d8c056eec24f5e3887327ec33f78fb583a0eea5c37b6b",
+  "counts": {
+    "assemblies": 5,
+    "step": 1,
+    "parts": 40
+  },
+  "verification": "File-level integrity verified; SolidWorks assembly references and compatibility not verified.",
+  "files": [
+    {
+      "file": "二队车newnew/1022TB47D电池带座_01.SLDPRT",
+      "bytes": 5371175,
+      "sha256": "d6c230660a16f5e05ca3feef6c4d5d1052cec6df23decdbcd2e9e264e66f77fd"
+    },
+    {
+      "file": "二队车newnew/6815轴承.SLDPRT",
+      "bytes": 119000,
+      "sha256": "f2a9036bf0d81ef2e55f3f1169c5cab35b36d0300a2abc28b3f7d8ab410c772c"
+    },
+    {
+      "file": "二队车newnew/70mm全向轮.SLDPRT",
+      "bytes": 10121833,
+      "sha256": "4057b09e7e8d2ca256924cb2c12dad9ed9cbad47a7798932efa665bf5a445f2a"
+    },
+    {
+      "file": "二队车newnew/标志锥.SLDPRT",
+      "bytes": 81395,
+      "sha256": "70f8f67e757c36d6b2462d01965bdafa48dcdd562b4e4efde182d7cc87b131bc"
+    },
+    {
+      "file": "二队车newnew/玻纤板齿轮34×2_01.SLDPRT",
+      "bytes": 758983,
+      "sha256": "188a42a55d6d22e614cb3d125632e9a1b97bb82293dffda7611282cfceedb523"
+    },
+    {
+      "file": "二队车newnew/齿条0.188495559215388×2.5.SLDPRT",
+      "bytes": 267069,
+      "sha256": "b5f933906e2c891fe1cf825884fcd72401e163c25766bed2f26b507bcd746e08"
+    },
+    {
+      "file": "二队车newnew/齿条横向.SLDPRT",
+      "bytes": 283355,
+      "sha256": "268abe6823eef1eb3dae759c302a39624eacd4e2a9662388cecaf383be3c39ab"
+    },
+    {
+      "file": "二队车newnew/打印件立柱.SLDPRT",
+      "bytes": 258045,
+      "sha256": "5a370170600733ff2ea2158f3829cf1daadf8246ad97b67f51d8b5f167003fba"
+    },
+    {
+      "file": "二队车newnew/底板.SLDPRT",
+      "bytes": 320418,
+      "sha256": "0e6411e2a3effd8ac4281baeb717e630f17f6f3b6d0ac1cc6d8901bf8cfe2ee6"
+    },
+    {
+      "file": "二队车newnew/顶部盖子.SLDPRT",
+      "bytes": 86401,
+      "sha256": "1890fcef81bcf595ea4eae69139b7181e95999dceeb99bf58a84c51ab283d15a"
+    },
+    {
+      "file": "二队车newnew/舵机_S20F.SLDPRT",
+      "bytes": 191733,
+      "sha256": "930b55365bf9c029cf3dfb83d2b7284b17b9262518330f28fc1a9ee23f61291b"
+    },
+    {
+      "file": "二队车newnew/盖板.SLDPRT",
+      "bytes": 250164,
+      "sha256": "3305d90541b2547e8b23ccb8be71ecc547f24df9e84227625d5bdada3eb8b5e0"
+    },
+    {
+      "file": "二队车newnew/夹爪垫片.SLDPRT",
+      "bytes": 62039,
+      "sha256": "50a877b9a156d8f8762d24d4e353a8863c40a3ba1210441a363c1675c178c522"
+    },
+    {
+      "file": "二队车newnew/夹爪三_总装配.SLDASM",
+      "bytes": 360774,
+      "sha256": "459473e0ba02f7e2746997a0cf21367b4c4e6cd1222960f6e20b16ef80a587f4"
+    },
+    {
+      "file": "二队车newnew/金属舵盘.SLDPRT",
+      "bytes": 197612,
+      "sha256": "00b3a87812df5096fa82ff162cbf65b41d7cd3b69ef8b64a322da707656d477b"
+    },
+    {
+      "file": "二队车newnew/内4外8轴承.SLDPRT",
+      "bytes": 60681,
+      "sha256": "ced8f50daf0e86ee40cee3c75cc2211c266011196dbe5801d3e06aed0c6a2133"
+    },
+    {
+      "file": "二队车newnew/器材散落处.SLDPRT",
+      "bytes": 121513,
+      "sha256": "1bac4ad86b03406eed2d7b440a8880f1270bba9ce5177d75b09f30b3addea3fe"
+    },
+    {
+      "file": "二队车newnew/球体零件.SLDPRT",
+      "bytes": 151891,
+      "sha256": "7ef3af792295d6a55fcb124f20725a8b50c29cda6773c035fc50a65a44f97270"
+    },
+    {
+      "file": "二队车newnew/升降导轨.SLDPRT",
+      "bytes": 261748,
+      "sha256": "9ea6c195d75d847bd55c6fff755f904c8fee7c29d585217aafb243027e7dbf74"
+    },
+    {
+      "file": "二队车newnew/升降台零件.SLDPRT",
+      "bytes": 245354,
+      "sha256": "e64e1afc029722b6c89fce1c0de3507417bd6652cbb5b117be0b523e6e77e2a4"
+    },
+    {
+      "file": "二队车newnew/水平导轨.SLDPRT",
+      "bytes": 278219,
+      "sha256": "51a2913268c920e2175ca8618f953042c9d92ff027207b2a1e1ca6a34892cd2c"
+    },
+    {
+      "file": "二队车newnew/限位块.SLDPRT",
+      "bytes": 96414,
+      "sha256": "19351631b99272ea7b0bf79d9ff4001ce4307f9e182aeef5af00fa17df282d33"
+    },
+    {
+      "file": "二队车newnew/小齿轮.SLDPRT",
+      "bytes": 633576,
+      "sha256": "1999937e9d5c23e39b9c5f50812f501ed5a5579e5dad44f464682a4d8070949e"
+    },
+    {
+      "file": "二队车newnew/校赛轮组.SLDASM",
+      "bytes": 2974311,
+      "sha256": "eff834cbf4e74deba9d67927d4bcec45914fd71f0fc744444bd8b79e74c31ffa"
+    },
+    {
+      "file": "二队车newnew/校赛新新新整车.SLDASM",
+      "bytes": 7087731,
+      "sha256": "cf40417dbd780b4db4f4fde7d5e2ac1a7d2859c7d59d91a6339b4d755bf84f60"
+    },
+    {
+      "file": "二队车newnew/新版云台舵机座 (1).SLDPRT",
+      "bytes": 237270,
+      "sha256": "2f276cf3b1b48d7309ca4b41f4139526d1562f7e68b692a30df21f9c673a0c23"
+    },
+    {
+      "file": "二队车newnew/圆柱齿轮24×2.51.SLDPRT",
+      "bytes": 334222,
+      "sha256": "81fa9a5c0fea90fb30f16abf5d48a92fc488f21ff40debd929d9d4f3d8358912"
+    },
+    {
+      "file": "二队车newnew/云台底板.SLDPRT",
+      "bytes": 184279,
+      "sha256": "f42d9bfb0f7ed374c29aec518ddd650c1b74c60adcaf7391e57fc62e20890a1b"
+    },
+    {
+      "file": "二队车newnew/长u舵机座.SLDPRT",
+      "bytes": 158725,
+      "sha256": "8b9bcf19b8631048b7bb945ce4dd622c7af353b487626c4d77d1e518d885398e"
+    },
+    {
+      "file": "二队车newnew/爪子.SLDPRT",
+      "bytes": 330082,
+      "sha256": "d0501fca3c666b2af040bf9af2da611b4cef2bd0dd36c2fb8056a805f9188e87"
+    },
+    {
+      "file": "二队车newnew/爪子2.SLDPRT",
+      "bytes": 333376,
+      "sha256": "3aae9bc9bb5724c5787f0cec1913b97462ae5cbb42ec7f110c1b13ba819117fd"
+    },
+    {
+      "file": "二队车newnew/爪子座.SLDPRT",
+      "bytes": 299318,
+      "sha256": "eaece24ebdf596b9e92d91f14daf2723964e7690dd4f7f13027e4f2869bb57db"
+    },
+    {
+      "file": "二队车newnew/整车.SLDASM",
+      "bytes": 596841,
+      "sha256": "ff6052df160f73b2a4ce085a55df1e752b4c5966386d35c73fc7906bc75029bd"
+    },
+    {
+      "file": "二队车newnew/直线轴承20x30.SLDPRT",
+      "bytes": 187293,
+      "sha256": "fed260fb4016a6901303d593040a6f7b1b8a4ee7a06cc3d28374284d6ce0a03f"
+    },
+    {
+      "file": "二队车newnew/轴承上盖.SLDPRT",
+      "bytes": 126916,
+      "sha256": "45c45356db80349507ba2cd6092fdd7e7f3afbb2813761fcded5446f72ea857a"
+    },
+    {
+      "file": "二队车newnew/轴承座下盖.SLDPRT",
+      "bytes": 100764,
+      "sha256": "da83d9c4db18d277ed329933bd89ec30b76f0a8d12a4c953386e3804ae4d2ca8"
+    },
+    {
+      "file": "二队车newnew/最新沉头托盘.SLDPRT",
+      "bytes": 203620,
+      "sha256": "2cf5876e252dadde4798f261bb82a5528e0b4931075c46b2699d78b5c386825d"
+    },
+    {
+      "file": "二队车newnew/dd3y.SLDPRT",
+      "bytes": 218150,
+      "sha256": "b51d269a659d32d3e54d5074df7bd91b7c734976d6ecb654154ddff25dace8e6"
+    },
+    {
+      "file": "二队车newnew/DS3120舵机.SLDPRT",
+      "bytes": 569938,
+      "sha256": "7cabd8343be2e656d1b532d622293c1a935f1adcffa8581f7005759820bdf042"
+    },
+    {
+      "file": "二队车newnew/k230座.SLDPRT",
+      "bytes": 90454,
+      "sha256": "803887b804d197fae9dc395de9679bb2eb2e2441fb1bd622fd8551344601bdb9"
+    },
+    {
+      "file": "二队车newnew/M2006_P36_实体版.SLDPRT",
+      "bytes": 4132423,
+      "sha256": "69016bb1618d39c3511f0f8fb15539d0816c627c0d23b0b4e58b328614ed4416"
+    },
+    {
+      "file": "二队车newnew/M2006_P36_实体版.STEP",
+      "bytes": 8624744,
+      "sha256": "b499fb3158af818e12765970bf94c8be2cf733bb584866bfa04bf340b9f48b6d"
+    },
+    {
+      "file": "二队车newnew/M5铜柱.SLDPRT",
+      "bytes": 105835,
+      "sha256": "aae2e3a6458cdce499b911fc403b8c69ade6ee5b723921a54e7db28c66bbbeed"
+    },
+    {
+      "file": "二队车newnew/round mount.SLDPRT",
+      "bytes": 101442,
+      "sha256": "f462ca9cd6373564109b9cf485475b1615490c8d0d7bec96604919fcdd7bdf30"
+    },
+    {
+      "file": "二队车newnew/TOWER PRO MG-995, ANALOG SERVO.SLDASM",
+      "bytes": 212101,
+      "sha256": "c3bde52aa2a5eab85f0bba3915e95a6abd0931a7c89a1d9f8118446e4dfc955a"
+    },
+    {
+      "file": "二队车newnew/xinxin电机座.SLDPRT",
+      "bytes": 168492,
+      "sha256": "21ed9f0776c1c23034e7e59d4dfc94084bae7fd29cd531de8f5eff490a7a3c59"
+    }
+  ]
+}

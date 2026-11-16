@@ -1,0 +1,32 @@
+# Published archives live in GitHub Releases, not source history.
+releases/
+*.zip
+*.7z
+*.rar
+*.sha256
+
+# SolidWorks / editor temporary files; keep actual model formats trackable.
+~$*
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Account and machine state.
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+.auth/
+.codex/
+.agents/
+.vscode/
+.idea/
+node_modules/
+__pycache__/
+*.pyc
